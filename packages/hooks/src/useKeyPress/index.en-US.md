@@ -11,11 +11,11 @@ Listen for the keyboard press, support key combinations, and support alias.
 
 ### Basic usage
 
-<code src="./demo/demo1.tsx" />
+<code src="./demo/demo1.tsx"></code>
 
 ### Combination keys
 
-<code src="./demo/demo6.tsx" />
+<code src="./demo/demo6.tsx"></code>
 
 ### Exact match
 
@@ -23,15 +23,15 @@ Listen for the keyboard press, support key combinations, and support alias.
 
 ### Multiple keys
 
-<code src="./demo/demo3.tsx" />
+<code src="./demo/demo3.tsx"></code>
 
 ### Custom method
 
-<code src="./demo/demo4.tsx" />
+<code src="./demo/demo4.tsx"></code>
 
 ### Custom DOM
 
-<code src="./demo/demo5.tsx" />
+<code src="./demo/demo5.tsx"></code>
 
 ## API
 

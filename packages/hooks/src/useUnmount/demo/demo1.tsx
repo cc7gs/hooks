@@ -1,6 +1,6 @@
 /**
  * title: Basic usage
- * desc: The function is called right before the component is unmounted.
+ * description: The function is called right before the component is unmounted.
  *
  * title.zh-CN: 基础用法
  * desc.zh-CN: 在组件卸载时，执行函数。

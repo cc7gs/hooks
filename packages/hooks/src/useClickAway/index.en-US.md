@@ -11,19 +11,19 @@ Listen for click events outside the target element.
 
 ### Default usage
 
-<code src="./demo/demo1.tsx" />
+<code src="./demo/demo1.tsx"></code>
 
 ### Custom DOM
 
-<code src="./demo/demo2.tsx" />
+<code src="./demo/demo2.tsx"></code>
 
 ### Support multiple DOM
 
-<code src="./demo/demo3.tsx" />
+<code src="./demo/demo3.tsx"></code>
 
 ### Listen for other events
 
-<code src="./demo/demo4.tsx" />
+<code src="./demo/demo4.tsx"></code>
 
 ### Support multiple events
 

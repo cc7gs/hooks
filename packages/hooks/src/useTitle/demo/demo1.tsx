@@ -1,6 +1,6 @@
 /**
  * title: Basic usage
- * desc: Set title of the page.
+ * description: Set title of the page.
  *
  * title.zh-CN: 基础用法
  * desc.zh-CN: 设置页面标题

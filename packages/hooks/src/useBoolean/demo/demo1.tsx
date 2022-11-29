@@ -1,6 +1,6 @@
 /**
  * title: Basic usage
- * desc: Toggle boolean, default value can be set optionally.
+ * description: Toggle boolean, default value can be set optionally.
  *
  * title.zh-CN: 基础用法
  * desc.zh-CN: 切换 boolean，可以接收默认值。

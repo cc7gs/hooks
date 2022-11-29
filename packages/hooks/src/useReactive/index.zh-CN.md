@@ -11,7 +11,7 @@ nav:
 
 ### 基本用法
 
-<code src="./demo/demo1.tsx" />
+<code src="./demo/demo1.tsx"></code>
 
 ### 数组操作
 
@@ -23,7 +23,7 @@ nav:
 
 ### 注意
 
-<code src="./demo/demo4.tsx" />
+<code src="./demo/demo4.tsx"></code>
 
 ## API
 

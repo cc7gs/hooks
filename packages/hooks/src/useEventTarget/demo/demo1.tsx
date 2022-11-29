@@ -1,6 +1,6 @@
 /**
  * title: Basic usage
- * desc: Controlled input component，support reset.
+ * description: Controlled input component，support reset.
  *
  * title.zh-CN: 基础用法
  * desc.zh-CN: 受控的 input，支持 reset。

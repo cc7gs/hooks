@@ -1,6 +1,6 @@
 /**
  * title: Default usage
- * desc: Observe if the element is visible.
+ * description: Observe if the element is visible.
  *
  * title.zh-CN: 基础用法
  * desc.zh-CN: 监听元素是否在可见区域内

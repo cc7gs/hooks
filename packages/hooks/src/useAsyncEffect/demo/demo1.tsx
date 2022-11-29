@@ -1,6 +1,6 @@
 /**
  * title: Default usage
- * desc: Do async check when component is mounted.
+ * description: Do async check when component is mounted.
  *
  * title.zh-CN: 基础用法
  * desc.zh-CN: 组件加载时进行异步的检查

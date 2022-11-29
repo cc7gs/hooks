@@ -1,6 +1,6 @@
 /**
  * title: Default usage
- * desc: Load js file, such as [test-external-script.js](/useExternal/test-external-script.js)
+ * description: Load js file, such as [test-external-script.js](/useExternal/test-external-script.js)
  *
  * title.zh-CN: 基础用法
  * desc.zh-CN: 加载 js 文件，例如引入 [test-external-script.js](/useExternal/test-external-script.js)

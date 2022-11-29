@@ -1,6 +1,6 @@
 /**
  * title: Basic usage
- * desc: Set favicon
+ * description: Set favicon
  *
  * title.zh-CN: 基础用法
  * desc.zh-CN: 设置 favicon

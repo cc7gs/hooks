@@ -1,6 +1,6 @@
 /**
  * title: Default usage
- * desc: unmountedRef.current means whether the component is unmounted
+ * description: unmountedRef.current means whether the component is unmounted
  *
  * title.zh-CN: 基础用法
  * desc.zh-CN: unmountedRef.current 代表组件是否已经卸载

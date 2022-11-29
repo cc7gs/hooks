@@ -1,6 +1,6 @@
 /**
  * title: Default usage
- * desc: useMemoizedFn is the same as useCallback.
+ * description: useMemoizedFn is the same as useCallback.
  *
  * title.zh-CN: 基础用法
  * desc.zh-CN: useMemoizedFn 与 useCallback 可以实现同样的效果。

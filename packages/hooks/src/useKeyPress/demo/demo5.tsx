@@ -1,6 +1,6 @@
 /**
  * title: Custom DOM
- * desc: By default, listen for events on the window. You can also pass in a DOM to set listen area. such as the common listening for input box events.
+ * description: By default, listen for events on the window. You can also pass in a DOM to set listen area. such as the common listening for input box events.
  *
  * title.zh-CN: 自定义 DOM
  * desc.zh-CN: |

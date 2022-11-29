@@ -1,6 +1,6 @@
 /**
  * title: Default usage
- * desc: Display the changed deps when effect function is executed.
+ * description: Display the changed deps when effect function is executed.
  *
  * title.zh-CN: 基础用法
  * desc.zh-CN: 查看每次 effect 执行时发生变化的依赖项

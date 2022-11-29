@@ -2,7 +2,7 @@
 title: ahooks - React Hooks Library
 hero:
   image: /logo.svg
-  desc: A high-quality & reliable React Hooks library
+  description: A high-quality & reliable React Hooks library
   actions:
     - text: Guide
       link: /guide

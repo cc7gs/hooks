@@ -1,6 +1,6 @@
 /**
  * title: Basic usage
- * desc: Return network status
+ * description: Return network status
  *
  * title.zh-CN: 基础用法
  * desc.zh-CN: 返回网络状态信息

@@ -1,6 +1,6 @@
 /**
  * title: Default usage
- * desc: Please keep pressing button to show effects.
+ * description: Please keep pressing button to show effects.
  *
  * title.zh-CN: 基础用法
  * desc.zh-CN: 请长按按钮查看效果。

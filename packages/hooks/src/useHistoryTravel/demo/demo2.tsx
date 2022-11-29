@@ -1,6 +1,6 @@
 /**
  * title: TodoList
- * desc: Redo and undo operations
+ * description: Redo and undo operations
  *
  * title.zh-CN: 可撤销恢复的 Todo List
  * desc.zh-CN: 可以实现撤销恢复等操作。

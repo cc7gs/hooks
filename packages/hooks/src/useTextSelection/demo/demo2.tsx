@@ -1,6 +1,6 @@
 /**
  * title: Translate user text selection
- * desc: Use Antd.Popover to translate user text selection
+ * description: Use Antd.Popover to translate user text selection
  *
  * title.zh-CN: 划词翻译
  * desc.zh-CN: 配合 Popover 做划词翻译
@@ -21,9 +21,13 @@ const getResult = (keyword: string): Promise<string> => {
 };
 
 export default () => {
-  const { text = '', left = 0, top = 0, height = 0, width = 0 } = useTextSelection(() =>
-    document.querySelector('#translate-dom'),
-  );
+  const {
+    text = '',
+    left = 0,
+    top = 0,
+    height = 0,
+    width = 0,
+  } = useTextSelection(() => document.querySelector('#translate-dom'));
 
   const [visible, setVisible] = useState(false);
 

@@ -1,6 +1,6 @@
 /**
  * title: Adcanved Uasge
- * desc: Dynamic change targetDate, suitable for verification codes or similar scenarios.
+ * description: Dynamic change targetDate, suitable for verification codes or similar scenarios.
  *
  * title.zh-CN: 进阶使用
  * desc.zh-CN: 动态变更配置项, 适用于验证码或类似场景，时间结束后会触发 onEnd 回调。

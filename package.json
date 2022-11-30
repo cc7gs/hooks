@@ -41,7 +41,6 @@
     "@types/lodash.throttle": "^4.1.6",
     "@types/react-router": "^5.1.19",
     "@umijs/fabric": "^2.1.0",
-    "@umijs/plugin-sass": "^1.1.1",
     "antd": "^4.3.3",
     "babel-loader": "^8.1.0",
     "babel-plugin-import": "^1.12.0",
